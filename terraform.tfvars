@@ -1,0 +1,6 @@
+my_region     = "us-east-2"
+profile       = "default"
+topic_name    = "sns_dev"
+my_team       = "devops"
+protocol_type = "email"
+endpoint      = "cento215006601@gmail.com"
